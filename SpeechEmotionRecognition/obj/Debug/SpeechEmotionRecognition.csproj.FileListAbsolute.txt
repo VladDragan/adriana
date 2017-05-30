@@ -1,0 +1,5 @@
+E:\FeelingsRecognition\SEREngine\SpeechEmotionRecognition\bin\Debug\SpeechEmotionRecognition.dll
+E:\FeelingsRecognition\SEREngine\SpeechEmotionRecognition\bin\Debug\SpeechEmotionRecognition.pdb
+E:\FeelingsRecognition\SEREngine\SpeechEmotionRecognition\obj\Debug\SpeechEmotionRecognition.csprojResolveAssemblyReference.cache
+E:\FeelingsRecognition\SEREngine\SpeechEmotionRecognition\obj\Debug\SpeechEmotionRecognition.dll
+E:\FeelingsRecognition\SEREngine\SpeechEmotionRecognition\obj\Debug\SpeechEmotionRecognition.pdb

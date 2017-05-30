@@ -1,0 +1,8 @@
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\bin\Debug\EmotionRecognitionRunner.exe.config
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\bin\Debug\EmotionRecognitionRunner.exe
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\bin\Debug\EmotionRecognitionRunner.pdb
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\bin\Debug\SpeechEmotionRecognition.dll
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\bin\Debug\SpeechEmotionRecognition.pdb
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\obj\Debug\EmotionRecognitionRunner.csprojResolveAssemblyReference.cache
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\obj\Debug\EmotionRecognitionRunner.exe
+E:\FeelingsRecognition\SEREngine\EmotionRecognitionRunner\obj\Debug\EmotionRecognitionRunner.pdb
